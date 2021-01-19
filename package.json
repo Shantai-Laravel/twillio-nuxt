@@ -1,0 +1,21 @@
+{
+  "name": "nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.2",
+    "fs": "0.0.1-security",
+    "nuxt": "^2.14.12",
+    "twilio": "^3.55.0",
+    "twilio-video": "^2.10.0"
+  },
+  "devDependencies": {}
+}
